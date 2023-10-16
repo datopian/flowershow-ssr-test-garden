@@ -5,6 +5,7 @@ title: Welcome to Joe's Awesome Site!
 
 Hi there! I'm Joe, and I'm passionate about technology and coding. I love learning new things and sharing my knowledge with others. This website is my platform to do just that!
 
+[[about|Learn more about me]]
 ## Projects
 
 Here are some of my recent projects:
